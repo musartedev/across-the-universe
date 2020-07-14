@@ -43,6 +43,10 @@ export default { components: { PxMainMenu, PxSideNav, PxFooter } };
   background-color: pink;
 }
 
+.content {
+  height: 100vh;
+}
+
 .footer {
   background-color: purple;
   width: 500px;
